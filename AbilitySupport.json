@@ -148,7 +148,8 @@
   ],
   "gaia.entity.monster.EntityGaiaNineTails": [
     "hostile",
-    "fireImmunity"
+    "fireImmunity",
+    "swim|true,1.2F,1F,true"
   ],
   "gaia.entity.monster.EntityGaiaSahuagin": [
     "hostile",
@@ -182,6 +183,7 @@
   ],
   "gaia.entity.monster.EntityGaiaSiren": [
     "hostile",
+    "fireImmunity",
     "swim|true,1.2F,1F,true"
   ],
   "gaia.entity.monster.EntityGaiaSludgeGirl": [
