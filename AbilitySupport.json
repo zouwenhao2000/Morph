@@ -182,7 +182,8 @@
     "potionEffect|4,600,2,false"
   ],
   "gaia.entity.monster.EntityGaiaSiren": [
-    "hostile",
+    "hostile" 
+    "poisonResistance",
     "fireImmunity",
     "swim|true,1.2F,1F,true"
   ],
