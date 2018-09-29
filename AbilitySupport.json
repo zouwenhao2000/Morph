@@ -12,7 +12,7 @@
   "gaia.entity.monster.EntityGaiaBaphomet": [
     "hostile",
     "fireImmunity",
-    "witherResistance",
+    "swim|true,1.2F,1F,true",
     "potionEffect|2,600,0,false",
     "potionEffect|15,600,0,false"
   ],
@@ -149,7 +149,7 @@
   "gaia.entity.monster.EntityGaiaNineTails": [
     "hostile",
     "fireImmunity",
-    "witherResistance"
+    "swim|true,1.2F,1F,true"
   ],
   "gaia.entity.monster.EntityGaiaSahuagin": [
     "hostile",
