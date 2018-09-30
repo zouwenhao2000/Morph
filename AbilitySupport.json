@@ -12,7 +12,7 @@
   "gaia.entity.monster.EntityGaiaBaphomet": [
     "hostile",
     "fireImmunity",
-    "witherResistance",
+    "fallNegate",
     "potionEffect|2,600,0,false",
     "potionEffect|15,600,0,false"
   ],
@@ -47,7 +47,6 @@
     "potionEffect|2,300,0,false"
   ],
   "gaia.entity.monster.EntityGaiaDryad": [
-    "float|-0.114,true",
     "poisonResistance",
     "potionEffect|19,200,0,false"
   ],
@@ -150,7 +149,7 @@
   "gaia.entity.monster.EntityGaiaNineTails": [
     "hostile",
     "fireImmunity",
-    "witherResistance"
+    "fallNegate"
   ],
   "gaia.entity.monster.EntityGaiaSahuagin": [
     "hostile",
@@ -205,7 +204,8 @@
     "potionEffect|2,600,0,false"
   ],
   "gaia.entity.monster.EntityGaiaSpriggan": [
-    "hostile"
+    "hostile",
+    "poisonResistance"
   ],
   "gaia.entity.monster.EntityGaiaSuccubus": [
     "hostile",
@@ -260,7 +260,7 @@
   "gaia.entity.monster.EntityGaiaYukiOnna": [
     "hostile",
     "float|-0.114,true",
-    "poisonResistance"
+    "potionEffect|2,100,3,false"
   ],
     "net.minecraft.entity.passive.EntityBat": [
     "fly|true"
