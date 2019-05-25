@@ -226,13 +226,12 @@
     "fly|false",
     "poisonResistance",
     "witherResistance",
-    "potionEffect|2,600,0,false",
-    "potionEffect|18,300,0,false"
+    "potionEffect|2,600,0,false"
   ],
   "gaia.entity.monster.EntityGaiaVampire": [
     "hostile",
     "sunburn",
-    "poisonResistance",
+    "fallNegate",
     "step|6F",
     "potionEffect|9,600,0,false"
   ],
