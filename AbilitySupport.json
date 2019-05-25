@@ -199,8 +199,8 @@
     "hostile",
     "fireImmunity",
     "fly|true",
-    "step|6F",
-    "potionEffect|4,600,0,false",
+    "poisonResistance",
+    "witherResistance",
     "potionEffect|2,600,0,false"
   ],
   "gaia.entity.monster.EntityGaiaSpriggan": [
@@ -224,14 +224,15 @@
     "hostile",
     "fireImmunity",
     "fly|false",
-    "step|6F",
+    "poisonResistance",
+    "witherResistance",
     "potionEffect|2,600,0,false",
     "potionEffect|18,300,0,false"
   ],
   "gaia.entity.monster.EntityGaiaVampire": [
     "hostile",
     "sunburn",
-    "fly|false",
+    "poisonResistance",
     "step|6F",
     "potionEffect|9,600,0,false"
   ],
